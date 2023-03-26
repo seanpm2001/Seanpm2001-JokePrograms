@@ -42,6 +42,20 @@ For older entries, go to [:octocat: `SeanWallaWalla-JokePrograms`](https://githu
 - [:octocat: `Code Distancing`](https://github.com/seanpm2001/Code-Distancing/)
 - [:octocat: `Code Distancing Wiki 2021`](https://github.com/seanpm2001/Code-Distancing_Wiki_2021/)
 
+## Version Control jokes
+
+- [:octocat: `Branch Ranch`](https://github.com/seanpm2001/Branch-Ranch/)
+
+## Windows series
+
+- [:octocat: `WinFSCK`](https://github.com/seanpm2001/WinFSCK/)
+
+## Stroke
+
+> **jdhgkdhgkdhfkfj**
+
+- [:octocat: `KeyStroke`](https://github.com/seanpm2001/KeyStroke/)
+
 ## Political series
 
 - [:octocat: `Kommunism`](https://github.com/seanpm2001/Kommunism/)
@@ -50,16 +64,8 @@ For older entries, go to [:octocat: `SeanWallaWalla-JokePrograms`](https://githu
 
 - [:octocat: `Virg.io`](https://github.com/seanpm2001/Virg.io/)
 
-## Windows series
-
-- [:octocat: `WinFSCK`](https://github.com/seanpm2001/WinFSCK/)
-
-## Stroke
-
-- [:octocat: `KeyStroke`](https://github.com/seanpm2001/KeyStroke/)
-
 ***
 
-**File version:** `1 (2023, Saturday, March 25th at 9:10 pm PST)`
+**File version:** `2 (2023, Saturday, March 25th at 9:28 pm PST)`
 
 ***
