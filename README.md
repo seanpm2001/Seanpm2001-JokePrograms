@@ -50,6 +50,13 @@ For older entries, go to [:octocat: `SeanWallaWalla-JokePrograms`](https://githu
 
 - [:octocat: `WinFSCK`](https://github.com/seanpm2001/WinFSCK/)
 
+## Fake phone calls and text messages
+
+> **Poking fun at the "[CHARACTER] CALLED/TEXTED ME AT 3 AM (THEY ANSWERED)" clickbait trend**
+
+- [:octocat: `3FakeIM`](https://github.com/seanpm2001/3FakeIM/)
+- - [:octocat: `3FakeIM Docs`](https://github.com/seanpm2001/3FakeIM_Docs/)
+
 ## Stroke
 
 > **jdhgkdhgkdhfkfj**
@@ -66,6 +73,8 @@ For older entries, go to [:octocat: `SeanWallaWalla-JokePrograms`](https://githu
 
 ***
 
-**File version:** `2 (2023, Saturday, March 25th at 9:28 pm PST)`
+# [File info](#File-info)
+
+**File version:** `3 (2023, Saturday, July 1st at 08:04 pm PST)`
 
 ***
